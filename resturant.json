@@ -1,0 +1,277 @@
+[
+    {
+        "name":"Satori fine dinning",
+        "address":"7225 West bengal",
+        "delivery_charge":10,
+        "image":"https://procook.com.au/wp-content/uploads/2014/11/bigstock-Luxury-Restaurant-In-European-52461799.jpg",
+
+        "hours":{
+            
+            "Sunday":"11:00 AM - 7:00PM",
+            "Monday":"11:00 AM - 7:00PM",
+            "Tuesday":"11:00 AM - 7:00PM",
+            "Wednesday":"11:00 AM - 7:00PM",
+            "Thursday":"11:00 AM - 7:00PM",
+            "Friday":"11:00 AM - 7:00PM",
+            "Saturday":"11:00 AM - 7:00PM"
+        },
+        "menus":[
+            {
+                "name":"spaghetti",
+                "price":10,
+                "url":"https://bakerbynature.com/wp-content/uploads/2013/12/IMG_5993-21.jpg"
+            },
+            {
+                "name":"panner pizza",
+                "price":12,
+                "url":"https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/tandoori-paneer.954d93452557209bebe0b7f49e776ba2.1.jpg"
+            },
+            {
+                "name":"choclate pizza",
+                "price":12,
+                "url":"https://en.wikipedia.org/wiki/Chocolate_pizza#/media/File:Chocolate_Pizza.JPG"
+            },
+            {
+                "name":"chicken tikka masala",
+                "price":10,
+                "url":"https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Tikka-Masala-min.jpg"
+            },
+            {
+                "name":"cookies",
+                "price":5,
+                "url":"https://dictionary.cambridge.org/images/thumb/biscui_noun_002_03480.jpg?version=5.0.247"
+            },
+            {
+                "name":"cake",
+                "price":3,
+                "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pound_layer_cake.jpg/800px-Pound_layer_cake.jpg"
+            },
+            {
+                "name":"chocolate",
+                "price":2,
+                "url":"https://www.thespruceeats.com/thmb/eYAjvxX4RcKDtDpL2RCWKZClSbI=/1335x1001/smart/filters:no_upscale()/chocolate_hero1-d62e5444a8734f8d8fe91f5631d51ca5.jpg"
+            },
+            {
+                "name":"momos",
+                "price":5,
+                "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Momo_nepal.jpg/1200px-Momo_nepal.jpg"
+            },
+            {
+                "name":"popcorn",
+                "price":1,
+                "url":"https://img.freepik.com/premium-vector/popcorn-striped-tub_157999-54.jpg?w=2000"
+            },
+            {
+                "name":"sandwich",
+                "price":4,
+                "url":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Egg_Sandwich.jpg"
+            }
+        ]
+    },
+    {
+        "name":"Cafe palace",
+        "address":"7225 West coast",
+        "delivery_charge":20,
+        "image":"https://www.moderndiningtables.net/wp-content/uploads/2017/10/nikkei-nine-1024x682.jpg",
+
+        "hours":{
+            
+            "Sunday":"11:00 AM - 7:00PM",
+            "Monday":"11:00 AM - 7:00PM",
+            "Tuesday":"11:00 AM - 7:00PM",
+            "Wednesday":"11:00 AM - 7:00PM",
+            "Thursday":"11:00 AM - 7:00PM",
+            "Friday":"11:00 AM - 7:00PM",
+            "Saturday":"11:00 AM - 7:00PM"
+        },
+        "menus":[
+            {
+                "name":"spaghetti",
+                "price":10,
+                "url":"https://bakerbynature.com/wp-content/uploads/2013/12/IMG_5993-21.jpg"
+            },
+            {
+                "name":"panner pizza",
+                "price":12,
+                "url":"https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/tandoori-paneer.954d93452557209bebe0b7f49e776ba2.1.jpg"
+            },
+            {
+                "name":"choclate pizza",
+                "price":12,
+                "url":"https://en.wikipedia.org/wiki/Chocolate_pizza#/media/File:Chocolate_Pizza.JPG"
+            },
+            {
+                "name":"chicken tikka masala",
+                "price":10,
+                "url":"https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Tikka-Masala-min.jpg"
+            },
+            {
+                "name":"cookies",
+                "price":5,
+                "url":"https://dictionary.cambridge.org/images/thumb/biscui_noun_002_03480.jpg?version=5.0.247"
+            },
+            {
+                "name":"cake",
+                "price":3,
+                "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pound_layer_cake.jpg/800px-Pound_layer_cake.jpg"
+            },
+            {
+                "name":"chocolate",
+                "price":2,
+                "url":"https://www.thespruceeats.com/thmb/eYAjvxX4RcKDtDpL2RCWKZClSbI=/1335x1001/smart/filters:no_upscale()/chocolate_hero1-d62e5444a8734f8d8fe91f5631d51ca5.jpg"
+            },
+            {
+                "name":"momos",
+                "price":5,
+                "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Momo_nepal.jpg/1200px-Momo_nepal.jpg"
+            },
+            {
+                "name":"popcorn",
+                "price":1,
+                "url":"https://img.freepik.com/premium-vector/popcorn-striped-tub_157999-54.jpg?w=2000"
+            },
+            {
+                "name":"sandwich",
+                "price":4,
+                "url":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Egg_Sandwich.jpg"
+            }
+        ]
+    },{
+        "name":"fine dine",
+        "address":" 121 jaipur",
+        "delivery_charge":10,
+        "image":"https://s3.amazonaws.com/bucket.leye.co/uploads/2020/06/StellaBarraWineBar_Santa_Monica-09.jpg",
+
+        "hours":{
+            
+            "Sunday":"11:00 AM - 7:00PM",
+            "Monday":"11:00 AM - 7:00PM",
+            "Tuesday":"11:00 AM - 7:00PM",
+            "Wednesday":"11:00 AM - 7:00PM",
+            "Thursday":"11:00 AM - 7:00PM",
+            "Friday":"11:00 AM - 7:00PM",
+            "Saturday":"11:00 AM - 7:00PM"
+        },
+        "menus":[
+            {
+                "name":"spaghetti",
+                "price":10,
+                "url":"https://bakerbynature.com/wp-content/uploads/2013/12/IMG_5993-21.jpg"
+            },
+            {
+                "name":"panner pizza",
+                "price":12,
+                "url":"https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/tandoori-paneer.954d93452557209bebe0b7f49e776ba2.1.jpg"
+            },
+            {
+                "name":"choclate pizza",
+                "price":12,
+                "url":"https://en.wikipedia.org/wiki/Chocolate_pizza#/media/File:Chocolate_Pizza.JPG"
+            },
+            {
+                "name":"chicken tikka masala",
+                "price":10,
+                "url":"https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Tikka-Masala-min.jpg"
+            },
+            {
+                "name":"cookies",
+                "price":5,
+                "url":"https://dictionary.cambridge.org/images/thumb/biscui_noun_002_03480.jpg?version=5.0.247"
+            },
+            {
+                "name":"cake",
+                "price":3,
+                "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pound_layer_cake.jpg/800px-Pound_layer_cake.jpg"
+            },
+            {
+                "name":"chocolate",
+                "price":2,
+                "url":"https://www.thespruceeats.com/thmb/eYAjvxX4RcKDtDpL2RCWKZClSbI=/1335x1001/smart/filters:no_upscale()/chocolate_hero1-d62e5444a8734f8d8fe91f5631d51ca5.jpg"
+            },
+            {
+                "name":"momos",
+                "price":5,
+                "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Momo_nepal.jpg/1200px-Momo_nepal.jpg"
+            },
+            {
+                "name":"popcorn",
+                "price":1,
+                "url":"https://img.freepik.com/premium-vector/popcorn-striped-tub_157999-54.jpg?w=2000"
+            },
+            {
+                "name":"sandwich",
+                "price":4,
+                "url":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Egg_Sandwich.jpg"
+            }
+        ]
+    },{
+        "name":"little smile",
+        "address":" West bengal",
+        "delivery_charge":10,
+        "image":"https://d37219swed47g7.cloudfront.net/media/CACHE/images/images/guides/the-best-restaurants-in-beverly-hills/Georgie/033923aa87f2d8209d0b5c32373ed082.jpg",
+
+        "hours":{
+            
+            "Sunday":"11:00 AM - 7:00PM",
+            "Monday":"11:00 AM - 7:00PM",
+            "Tuesday":"11:00 AM - 7:00PM",
+            "Wednesday":"11:00 AM - 7:00PM",
+            "Thursday":"11:00 AM - 7:00PM",
+            "Friday":"11:00 AM - 7:00PM",
+            "Saturday":"11:00 AM - 7:00PM"
+        },
+        "menus":[
+            {
+                "name":"spaghetti",
+                "price":10,
+                "url":"https://bakerbynature.com/wp-content/uploads/2013/12/IMG_5993-21.jpg"
+            },
+            {
+                "name":"panner pizza",
+                "price":12,
+                "url":"https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/tandoori-paneer.954d93452557209bebe0b7f49e776ba2.1.jpg"
+            },
+            {
+                "name":"choclate pizza",
+                "price":12,
+                "url":"https://en.wikipedia.org/wiki/Chocolate_pizza#/media/File:Chocolate_Pizza.JPG"
+            },
+            {
+                "name":"chicken tikka masala",
+                "price":10,
+                "url":"https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Tikka-Masala-min.jpg"
+            },
+            {
+                "name":"cookies",
+                "price":5,
+                "url":"https://dictionary.cambridge.org/images/thumb/biscui_noun_002_03480.jpg?version=5.0.247"
+            },
+            {
+                "name":"cake",
+                "price":3,
+                "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pound_layer_cake.jpg/800px-Pound_layer_cake.jpg"
+            },
+            {
+                "name":"chocolate",
+                "price":2,
+                "url":"https://www.thespruceeats.com/thmb/eYAjvxX4RcKDtDpL2RCWKZClSbI=/1335x1001/smart/filters:no_upscale()/chocolate_hero1-d62e5444a8734f8d8fe91f5631d51ca5.jpg"
+            },
+            {
+                "name":"momos",
+                "price":5,
+                "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Momo_nepal.jpg/1200px-Momo_nepal.jpg"
+            },
+            {
+                "name":"popcorn",
+                "price":1,
+                "url":"https://img.freepik.com/premium-vector/popcorn-striped-tub_157999-54.jpg?w=2000"
+            },
+            {
+                "name":"sandwich",
+                "price":4,
+                "url":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Egg_Sandwich.jpg"
+            }
+        ]
+    }
+
+]
